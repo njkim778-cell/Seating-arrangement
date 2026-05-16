@@ -1,0 +1,8 @@
+{
+  "name": "학급 자리 배치 프로그램 (Seating Chart)",
+  "description": "중학교 담임교사를 위한 남녀 성별 구분 무작위 자리 배치 웹 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
